@@ -1,6 +1,8 @@
 # pii osu! skins
 osu! skins i made
 
+(screenshots of skins for other gamemodes at the bottom of the page
+
 
 
 # [- pii (bloo)](https://drive.google.com/file/d/1s8UfFwtsowe_FHGdQjsmKop3k-eyKwLx/view?usp=sharing)
@@ -28,7 +30,16 @@ osu! skins i made
 ![](https://osu.ppy.sh/ss/18130388/1dbc)
 
 
+# other gamemodes (all in every skin)
 
+# taiko
+![](https://osu.ppy.sh/ss/18130412/c2db)
+
+# catch
+![](https://osu.ppy.sh/ss/18130415/2e24)
+
+# mania
+![](https://osu.ppy.sh/ss/18130419/afe8)
 
 
 
@@ -45,6 +56,5 @@ osu! skins i made
 
 
 hi :3
-
 
 
