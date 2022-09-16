@@ -16,16 +16,16 @@ osu! skins i made
 ![](https://osu.ppy.sh/ss/18130372/1784)
 
 # [- pii (varv edit)](https://drive.google.com/file/d/1hVUXZSm3cvQ0LFVg6eoaus2nv-IhN0Kq/view?usp=sharing)
-![]()
+![](https://osu.ppy.sh/ss/18130378/aec5)
 
 # [- pii (varv)](https://drive.google.com/file/d/178r_ZXQQlNJTBnCS1oaOBe0HcZNx4Wuw/view?usp=sharing)
-![]()
+![](https://osu.ppy.sh/ss/18130382/e0b6)
 
 # [- pii (vaxei)](https://drive.google.com/file/d/154hANqAaDutlr-Mqs_baptkoZ4o2g5tS/view?usp=sharing)
-![]()
+![](https://osu.ppy.sh/ss/18130386/520a)
 
 # [- pii (willy)](https://drive.google.com/file/d/1ezSJi0yvCwntyrVsXQ5JEujwh272wktr/view?usp=sharing)
-![]()
+![](https://osu.ppy.sh/ss/18130388/1dbc)
 
 
 
