@@ -1,7 +1,7 @@
 # pii osu! skins
 osu! skins i made
 
-(screenshots of skins for other gamemodes at the bottom of the page
+(screenshots of skins for other gamemodes at the bottom of the page)
 
 
 
